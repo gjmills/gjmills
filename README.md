@@ -1,4 +1,4 @@
-### Hi there 👋
+### If you landed on this page, you`re probably looking for the dialogue experimental toolkit, which has its own github account at: https://dialoguetoolkit.github.io/chattool/
 
 <!--
 **gjmills/gjmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
